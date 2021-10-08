@@ -1,0 +1,26 @@
+body{ font-family:georgia;
+      line-height:1.5;
+      background-color:#deb887;
+      width:500px;
+      margin:auto;}
+
+form{ background:rgb(147,5,5,0.4);
+      padding:1.5rem 0.5rem;
+      border-radius:8rem;
+      width:500px;
+      margin:auto;}
+
+.submit-button{ width:50%;
+                margin:auto;
+                cursor:pointer;}
+
+.input-headings{ margin:0 auto 1.25rem auto;
+                 padding:0.25rem;
+                  }
+
+.form-inputs{ display:block;
+              width:90%;
+              height:2rem;
+              padding:0.25rem                             0.75rem;
+              background-color:tan;
+              border:1px solid}
