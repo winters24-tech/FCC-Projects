@@ -1,0 +1,43 @@
+#title {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+p {
+  text-align: center;
+  font-family: helvetica;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.images {
+  display: block;
+  margin-left: 23%;
+  margin-right: auto;
+  width: 20%;
+  border-style: solid;
+  float: left;
+}
+#main {
+  margin-top: 50px;
+}
+
+h4 {
+  text-align: center;
+}
+
+#timeline {
+  text-align: left;
+  margin-left: 45%;
+  margin-right: auto;
+}
+
+#conclusion {
+  text-align: center;
+}
